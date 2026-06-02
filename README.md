@@ -15,7 +15,7 @@
 | **Written On** | June 02, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/slow-dance-in-bed/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Secure Licensing Rights for Slow Dance In Bed](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/slow-dance-in-bed/) |
+| **Get License** | [Commercial Licensing for Slow Dance In Bed](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/slow-dance-in-bed/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -110,7 +110,7 @@ This song is an original creative work by Abu Sayed. All lyrics, melody, and com
 |:-------------------|:------------|
 | **Author** | Abu Sayed |
 | **Version** | `v1` |
-| **SHA-256 Hash** | `N/A` |
+| **SHA-256 Hash** | `a0b454e48264d332c939635bc3b6933407a75094e45d1fd05162878bb54136b4` |
 | **Timestamp** | June 02, 2026 |
 
 See [LICENSE.md](./LICENSE.md) for full terms and conditions.
